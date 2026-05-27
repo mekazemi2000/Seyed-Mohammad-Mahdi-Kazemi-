@@ -50,13 +50,13 @@ Academic and applied projects related to financial risk, actuarial modeling, and
 ## Technical Skills
 
 **Programming & Data Analysis:**  
-Python, R, MATLAB, SQL, Excel
+Python, MATLAB, Maple, Excel
 
 **Machine Learning:**  
-Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost, SHAP
+Scikit-learn, PyTorch, ....
 
 **Data Visualization & Dashboards:**  
-Power BI, Plotly, Matplotlib, Seaborn
+Plotly, Matplotlib, Seaborn
 
 **Research Areas:**  
 Financial mathematics, actuarial science, risk analytics, machine learning, deep learning
